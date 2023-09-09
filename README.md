@@ -56,7 +56,7 @@ In order to follow along and complete the assessments, you’ll need a computer 
 >### 3.05 [**Working with Remotes**](#ch3-05)
 >### 3.06 [**Fetching New Changes**](#ch3-06)
 >### 3.07 [**Updating the Local Repository**](#ch3-07)
->### 3.08 [**the Pull-Merge-Push Workflow**](#ch3-08)
+>### 3.08 [**The Pull-Merge-Push Workflow**](#ch3-08)
 >### 3.09 [**Pushing Remote Branches**](#ch3-09)
 >### 3.10 [**Rebasing Your Changes with Examples**](#ch3-10)
 >### 3.11 [**Best Practices for Collaboration**](#ch3-11)
