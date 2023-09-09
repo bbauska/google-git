@@ -1,12 +1,13 @@
 ---
 title: "Google's Introduction to Git/GitHub"
 author: "bbauska"
-date last editted: "9/7/2023 11+pm"
+date last editted: "9/9/2023 4+pm"
 output: 
   markdown:
     with_style
 ---
-# google-git - Introduction to Git/GitHub by Google.
+
+# google-git - Introduction to Git/GitHub by Google
 ## About this Course
 In this course, you’ll learn how to keep track of the different versions of your code and configuration files using a popular version control system (VCS) called Git. We'll also go through how to setup an account with a service called GitHub so that you can create your very own remote repositories to store your code and configuration. 
 
@@ -39,14 +40,16 @@ In order to follow along and complete the assessments, you’ll need a computer 
 >### 2.02 [**Skipping the Staging Area**](#ch2-02)
 >### 2.03 [**Getting More Information About Our Changes**](#ch2-03)
 >### 2.04 [**Deleting &amp; Renaming Files**](#ch2-04)
->### 2.05 [**Undoing Changes Before Committing**](#ch2-05)
->### 2.06 [**Ammending Commits**](#ch2-06)
->### 2.07 [**Rollbacks**](#ch2-07)
->### 2.08 [**Identifying a Commit**](#ch2-08)
->### 2.09 [**What is a Branch?**](#ch2-09)
->### 2.10 [**Creating &amp; Working With Branches**](#ch2-10)
->### 2.11 [**Merging &amp; Merge Conflicts**](#ch2-11)
->### 2.12 [**Week 2 Wrap-Up: Using Git Locally**](#ch2-12)
+>### 2.05 [**Advanced Git Cheat Sheet**](#ch2-05)
+>### 2.06 [**Undoing Changes Before Committing**](#ch2-06)
+>### 2.07 [**Ammending Commits**](#ch2-07)
+>### 2.08 [**Rollbacks**](#ch2-08)
+>### 2.09 [**Identifying a Commit**](#ch2-09)
+>### 2.10 [**Git Revert Cheat Sheet**](#ch2-10)
+>### 2.11 [**What is a Branch?**](#ch2-11)
+>### 2.12 [**Creating &amp; Working With Branches**](#ch2-12)
+>### 2.13 [**Merging &amp; Merge Conflicts**](#ch2-13)
+>### 2.14 [**Week 2 Wrap-Up: Using Git Locally**](#ch2-14)
 
 ## [**Week 3: Working with Remotes**](#ch3)
 >### 3.01 [**Intro to Working with Remotes**](#ch3-01)
@@ -69,14 +72,15 @@ In order to follow along and complete the assessments, you’ll need a computer 
 >### 4.03 [**The Typical Pull Request Workflow on GitHub**](#ch4-03)
 >### 4.04 [**Updating an Existing Pull Request**](#ch4-04)
 >### 4.05 [**Squashing Changes**](#ch4-05)
->### 4.06 [**What are Code Reviews?**](#ch4-06)
->### 4.07 [**The Code Review Workflow**](#ch4-07)
->### 4.08 [**How to Use Code Review in GitHub**](#ch4-08)
+>### 4.06 [**Git Fork and Pull Request Cheat Sheet**](ch4-06)
+>### 4.07 [**What are Code Reviews?**](#ch4-07)
+>### 4.08 [**The Code Review Workflow**](#ch4-08)
 >### 4.09 [**Managing Collaboration**](#ch4-09)
 >### 4.10 [**Tracking Issues**](#ch4-10)
 >### 4.11 [**Continuous Integration**](#ch4-11)
->### 4.12 [**Week 4 Wrap-Up: Collaboration**](#ch4-12)
-
+>### 4.12 [**Additional Tools**](#ch4-12)
+>### 4.13 [**Week 4 Wrap-Up: Collaboration**](#ch4-13)
+>### 4.14 [**Sneak Peek of the Next course**](#ch4-14)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
