@@ -82,6 +82,15 @@ In order to follow along and complete the assessments, you’ll need a computer 
 >#### 4.13 [**Week 4 Wrap-Up: Collaboration**](#ch4-13)
 >#### 4.14 [**Sneak Peek of the Next course**](#ch4-14)
 
+
+•	[Crash Course on Python](https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation)
+•	[Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation&utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-US&utm_content=B2C&campaignid=8986236679&adgroupid=119480419197&device=c&keyword=&matchtype=&network=g&devicemodel=&adpostion=&creativeid=506915205324&hide_mobile_promo&gclid=Cj0KCQiA4uCcBhDdARIsAH5jyUlfDESauOE0BGSN9fmf3ZlnfY4Tz7Ph6dZtva1nt-0xLfXlnINEnhsaAgWoEALw_wcB)
+•	[Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation)
+•	[Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation)
+•	[Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation)
+•	[Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python?specialization=google-it-automation&utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-US&utm_content=B2C&campaignid=8986236679&adgroupid=119480419197&device=c&keyword=&matchtype=&network=g&devicemodel=&adpostion=&creativeid=506915205324&hide_mobile_promo&gclid=Cj0KCQiA4uCcBhDdARIsAH5jyUkQMdQGCkaf46MgrSBj7Kt9DDMg88bxLDZFiTtEhnnwf61Lcw6ZHA4aAgLWEALw_wcB)
+
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
